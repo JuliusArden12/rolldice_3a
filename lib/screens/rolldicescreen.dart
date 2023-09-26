@@ -32,7 +32,7 @@ class _RollDiceScreenState extends State<RollDiceScreen> {
                 mainAxisSize: MainAxisSize.min,
                 children: [
                   Text(
-                    "RollDice!!!",
+                    "RollDice",
                     style: TextStyle(fontSize: 30, color: Colors.deepPurple),
                   ),
                   SizedBox(height: 40),
